@@ -1,0 +1,1001 @@
+Date,Medicine_Name,Category,Quantity_Sold,Price,Store_ID,Discount,Profit
+2023-01-01,Diazepam,Sedative,177,455.16,STR007,10,40046.1
+2023-01-01,Aspirin,Analgesic,69,80.05,STR013,15,1542.82
+2023-01-02,Zinc Sulphate,Supplement,176,361.12,STR018,5,29630.13
+2023-01-02,Metronidazole,Antiparasitic,198,482.77,STR013,0,52131.6
+2023-01-06,Paracetamol,Analgesic,134,63.33,STR019,0,4136.96
+2023-01-06,Escitalopram,Antidepressant,11,495.68,STR002,0,2575.16
+2023-01-08,Multivitamin,Supplement,144,325.43,STR012,10,21528.9
+2023-01-08,Iron Folic Acid,Supplement,49,208.81,STR012,20,3941.86
+2023-01-08,Simvastatin,Cholesterol,181,327.62,STR003,10,25357.53
+2023-01-09,Metformin,Antidiabetic,35,441.82,STR014,15,4874.41
+2023-01-09,Lisinopril,Antihypertensive,39,12.29,STR003,5,226.5
+2023-01-09,Azithromycin,Antibiotic,170,139.3,STR013,15,6858.21
+2023-01-10,Loratadine,Antihistamine,155,58.11,STR019,15,3940.01
+2023-01-10,Rosuvastatin,Cholesterol,128,423.44,STR003,15,19821.41
+2023-01-10,Pantoprazole,Antacid,74,51.04,STR008,15,1853.02
+2023-01-11,Paracetamol,Analgesic,4,208.57,STR003,0,329.0
+2023-01-12,Iron Folic Acid,Supplement,37,66.0,STR018,0,1045.63
+2023-01-12,Vitamin C,Supplement,132,453.5,STR015,15,24102.89
+2023-01-13,Omeprazole,Antacid,121,185.17,STR002,0,12240.43
+2023-01-13,Cephalexin,Antibiotic,134,391.93,STR019,0,24981.39
+2023-01-13,Escitalopram,Antidepressant,34,182.41,STR007,5,2390.37
+2023-01-15,Glipizide,Antidiabetic,45,455.52,STR020,0,8245.55
+2023-01-16,Losartan,Antihypertensive,190,63.07,STR007,25,2926.93
+2023-01-17,Multivitamin,Supplement,62,360.68,STR019,10,9483.92
+2023-01-17,Pantoprazole,Antacid,150,291.68,STR018,20,17901.3
+2023-01-20,Multivitamin,Supplement,149,291.56,STR001,5,13541.16
+2023-01-20,Cephalexin,Antibiotic,199,312.0,STR012,15,20249.63
+2023-01-20,Cetirizine,Antihistamine,60,490.0,STR013,0,9667.85
+2023-01-20,Losartan,Antihypertensive,176,169.2,STR019,15,14684.59
+2023-01-21,Salbutamol,Respiratory,80,143.77,STR010,25,2954.73
+2023-01-23,Albendazole,Antiparasitic,44,65.97,STR017,0,1414.89
+2023-01-24,Loratadine,Antihistamine,173,360.95,STR015,20,22001.39
+2023-01-27,Fluoxetine,Antidepressant,196,498.03,STR017,0,50882.63
+2023-01-30,Vitamin C,Supplement,28,194.88,STR002,0,2575.86
+2023-01-31,Ranitidine,Antacid,121,267.07,STR002,5,9449.55
+2023-01-31,Iron Folic Acid,Supplement,58,80.1,STR009,20,1497.51
+2023-02-02,Fexofenadine,Antihistamine,69,37.76,STR013,15,1187.51
+2023-02-02,Salbutamol,Respiratory,132,122.81,STR003,25,6513.49
+2023-02-03,Multivitamin,Supplement,101,430.9,STR012,0,20143.27
+2023-02-03,Salbutamol,Respiratory,38,299.79,STR003,0,3972.58
+2023-02-06,Iron Folic Acid,Supplement,58,164.29,STR014,20,2479.35
+2023-02-07,Insulin Glargine,Antidiabetic,152,169.34,STR017,0,8693.39
+2023-02-07,Fluoxetine,Antidepressant,48,468.62,STR016,10,6821.89
+2023-02-08,Metronidazole,Antiparasitic,181,187.45,STR016,25,7925.99
+2023-02-09,Vitamin C,Supplement,52,409.21,STR008,25,7901.43
+2023-02-10,Iron Folic Acid,Supplement,133,383.75,STR013,0,27716.33
+2023-02-13,Montelukast,Respiratory,112,140.9,STR020,0,9113.22
+2023-02-13,Iron Folic Acid,Supplement,32,130.39,STR017,10,2029.26
+2023-02-15,Fluoxetine,Antidepressant,60,272.18,STR015,0,9111.92
+2023-02-16,Aspirin,Analgesic,183,169.86,STR005,25,10355.77
+2023-02-16,Loratadine,Antihistamine,117,365.28,STR010,15,17070.12
+2023-02-18,Sertraline,Antidepressant,107,478.57,STR013,15,13503.92
+2023-02-18,Atorvastatin,Cholesterol,73,230.68,STR012,0,6978.53
+2023-02-19,Amoxicillin,Antibiotic,127,300.77,STR010,25,14733.14
+2023-02-19,Iron Folic Acid,Supplement,150,244.05,STR014,0,14366.78
+2023-02-20,Loratadine,Antihistamine,45,20.39,STR009,20,252.23
+2023-02-21,Metformin,Antidiabetic,11,426.86,STR006,15,1434.9
+2023-02-21,Loratadine,Antihistamine,117,307.56,STR004,0,12762.27
+2023-02-23,Metformin,Antidiabetic,85,360.09,STR014,0,12109.68
+2023-02-23,Losartan,Antihypertensive,61,318.29,STR004,15,9827.4
+2023-02-23,Omega-3,Supplement,41,393.82,STR006,25,5395.34
+2023-02-25,Metformin,Antidiabetic,104,365.47,STR002,0,19969.98
+2023-02-25,Paracetamol,Analgesic,52,312.18,STR009,25,4273.49
+2023-02-25,Simvastatin,Cholesterol,143,39.87,STR009,5,1769.54
+2023-02-25,Omeprazole,Antacid,38,435.03,STR020,10,8865.52
+2023-02-26,Glipizide,Antidiabetic,40,155.54,STR017,0,3130.72
+2023-02-28,Doxycycline,Antibiotic,154,320.85,STR007,0,28366.01
+2023-03-01,Paracetamol,Analgesic,71,108.64,STR015,0,3294.54
+2023-03-03,Rosuvastatin,Cholesterol,107,244.7,STR015,5,12385.69
+2023-03-03,Fluoxetine,Antidepressant,74,316.14,STR017,20,8851.07
+2023-03-03,Atorvastatin,Cholesterol,24,26.73,STR009,5,201.61
+2023-03-03,Cetirizine,Antihistamine,179,310.89,STR007,0,25627.16
+2023-03-05,Lisinopril,Antihypertensive,51,412.72,STR005,15,7051.26
+2023-03-05,Sertraline,Antidepressant,86,498.0,STR013,10,12076.92
+2023-03-06,Metronidazole,Antiparasitic,138,97.55,STR004,15,6189.06
+2023-03-06,Pantoprazole,Antacid,4,353.76,STR011,5,412.2
+2023-03-06,Budesonide,Respiratory,116,245.68,STR012,0,13079.59
+2023-03-08,Amlodipine,Antihypertensive,33,50.53,STR015,15,798.32
+2023-03-10,Metformin,Antidiabetic,9,225.99,STR020,0,1071.02
+2023-03-11,Montelukast,Respiratory,188,330.27,STR008,0,22883.52
+2023-03-11,Loratadine,Antihistamine,130,277.25,STR010,0,20394.61
+2023-03-12,Doxycycline,Antibiotic,173,431.6,STR003,20,33691.69
+2023-03-12,Lisinopril,Antihypertensive,99,70.45,STR013,0,3761.34
+2023-03-12,Ciprofloxacin,Antibiotic,73,364.44,STR018,15,11210.81
+2023-03-12,Simvastatin,Cholesterol,75,59.63,STR005,25,1390.92
+2023-03-13,Ranitidine,Antacid,165,257.16,STR012,15,11477.46
+2023-03-13,Salbutamol,Respiratory,81,333.38,STR020,0,10371.44
+2023-03-14,Paracetamol,Analgesic,168,248.25,STR007,0,19167.34
+2023-03-14,Omeprazole,Antacid,152,291.98,STR015,20,19185.87
+2023-03-15,Atorvastatin,Cholesterol,118,359.85,STR001,0,24362.48
+2023-03-15,Ciprofloxacin,Antibiotic,88,117.97,STR006,15,3565.81
+2023-03-16,Paracetamol,Analgesic,160,499.23,STR015,0,46170.53
+2023-03-16,Clonazepam,Sedative,162,289.96,STR014,20,16973.86
+2023-03-16,Ibuprofen,Analgesic,18,11.83,STR019,5,118.96
+2023-03-16,Cetirizine,Antihistamine,65,53.61,STR003,25,822.04
+2023-03-17,Metronidazole,Antiparasitic,39,78.85,STR002,10,1589.86
+2023-03-17,Aspirin,Analgesic,6,162.76,STR010,0,564.2
+2023-03-18,Ranitidine,Antacid,145,330.76,STR018,0,15412.97
+2023-03-19,Alprazolam,Sedative,26,30.04,STR018,0,241.58
+2023-03-20,Ranitidine,Antacid,34,309.82,STR009,10,3248.42
+2023-03-20,Metformin,Antidiabetic,71,60.45,STR006,0,1936.1
+2023-03-21,Omeprazole,Antacid,82,88.1,STR012,0,2553.77
+2023-03-21,Losartan,Antihypertensive,25,55.11,STR017,5,576.56
+2023-03-21,Metronidazole,Antiparasitic,30,298.12,STR016,25,3369.86
+2023-03-22,Cephalexin,Antibiotic,159,343.15,STR013,25,13346.32
+2023-03-22,Multivitamin,Supplement,40,270.51,STR007,20,3670.88
+2023-03-23,Atorvastatin,Cholesterol,193,390.54,STR017,25,25151.35
+2023-03-24,Fexofenadine,Antihistamine,38,37.51,STR020,10,529.43
+2023-03-24,Aspirin,Analgesic,104,192.74,STR003,25,8767.15
+2023-03-24,Cephalexin,Antibiotic,189,466.46,STR011,15,24999.41
+2023-03-25,Budesonide,Respiratory,8,162.75,STR008,0,453.42
+2023-03-29,Ciprofloxacin,Antibiotic,25,373.57,STR014,15,2829.78
+2023-03-29,Zinc Sulphate,Supplement,187,396.58,STR013,0,36071.38
+2023-03-30,Diazepam,Sedative,117,308.09,STR004,0,18283.27
+2023-03-31,Alprazolam,Sedative,199,406.89,STR004,5,27445.14
+2023-03-31,Cetirizine,Antihistamine,123,103.84,STR020,0,6870.41
+2023-03-31,Sertraline,Antidepressant,174,308.16,STR017,5,24185.76
+2023-04-01,Loratadine,Antihistamine,108,7.26,STR012,5,404.04
+2023-04-03,Cephalexin,Antibiotic,130,195.32,STR020,0,11809.12
+2023-04-03,Fluoxetine,Antidepressant,118,483.51,STR017,5,23035.45
+2023-04-03,Ibuprofen,Analgesic,172,155.89,STR016,25,6890.09
+2023-04-06,Clonazepam,Sedative,17,398.86,STR012,20,2900.21
+2023-04-06,Budesonide,Respiratory,47,61.35,STR011,20,718.11
+2023-04-08,Zinc Sulphate,Supplement,59,109.65,STR002,25,2516.6
+2023-04-10,Alprazolam,Sedative,79,478.16,STR006,0,15885.08
+2023-04-13,Insulin Glargine,Antidiabetic,151,366.35,STR004,15,14624.73
+2023-04-13,Omeprazole,Antacid,69,269.18,STR008,0,6886.75
+2023-04-14,Multivitamin,Supplement,190,442.42,STR018,0,33743.39
+2023-04-14,Vitamin C,Supplement,167,380.33,STR019,5,33259.24
+2023-04-14,Pantoprazole,Antacid,117,494.39,STR008,10,27110.51
+2023-04-15,Omega-3,Supplement,152,213.85,STR003,0,18589.45
+2023-04-15,Omeprazole,Antacid,9,227.62,STR010,15,594.37
+2023-04-16,Zinc Sulphate,Supplement,73,46.52,STR004,0,1759.66
+2023-04-17,Insulin Glargine,Antidiabetic,30,445.41,STR009,0,6925.62
+2023-04-18,Multivitamin,Supplement,31,144.94,STR020,0,2024.96
+2023-04-19,Glipizide,Antidiabetic,153,400.59,STR016,5,33833.06
+2023-04-20,Glipizide,Antidiabetic,174,478.11,STR003,25,25946.4
+2023-04-21,Vitamin C,Supplement,87,494.24,STR003,15,12483.42
+2023-04-24,Sertraline,Antidepressant,120,311.47,STR012,15,15569.5
+2023-04-25,Azithromycin,Antibiotic,140,22.83,STR005,15,1155.3
+2023-04-26,Aspirin,Analgesic,158,384.2,STR014,0,32039.37
+2023-04-27,Clonazepam,Sedative,166,416.91,STR004,25,16620.29
+2023-04-27,Montelukast,Respiratory,29,145.21,STR014,25,1395.72
+2023-04-27,Pantoprazole,Antacid,136,483.13,STR016,15,23507.68
+2023-04-28,Metronidazole,Antiparasitic,120,351.24,STR007,15,19692.5
+2023-04-29,Pantoprazole,Antacid,149,481.45,STR006,10,37996.47
+2023-04-30,Aspirin,Analgesic,148,67.6,STR011,10,4404.0
+2023-05-03,Ciprofloxacin,Antibiotic,176,155.59,STR006,0,14663.88
+2023-05-04,Amlodipine,Antihypertensive,31,372.73,STR011,0,6268.82
+2023-05-04,Omega-3,Supplement,198,107.78,STR012,10,8854.07
+2023-05-04,Zinc Sulphate,Supplement,81,346.16,STR015,0,11153.03
+2023-05-05,Clonazepam,Sedative,119,335.45,STR005,15,10687.79
+2023-05-06,Clonazepam,Sedative,170,109.99,STR003,0,10935.26
+2023-05-09,Omeprazole,Antacid,191,351.84,STR009,0,36075.65
+2023-05-10,Ranitidine,Antacid,14,278.91,STR002,0,1595.63
+2023-05-10,Insulin Glargine,Antidiabetic,44,19.14,STR017,15,244.74
+2023-05-14,Budesonide,Respiratory,144,57.56,STR017,5,3622.59
+2023-05-14,Omeprazole,Antacid,67,426.2,STR010,20,8904.31
+2023-05-14,Rosuvastatin,Cholesterol,66,7.79,STR019,25,149.27
+2023-05-14,Doxycycline,Antibiotic,1,449.0,STR018,20,159.26
+2023-05-15,Losartan,Antihypertensive,149,272.97,STR005,5,13184.51
+2023-05-16,Metronidazole,Antiparasitic,122,125.28,STR019,25,4100.94
+2023-05-17,Atorvastatin,Cholesterol,136,283.83,STR003,0,18064.06
+2023-05-18,Sertraline,Antidepressant,66,105.65,STR008,0,2254.56
+2023-05-18,Pantoprazole,Antacid,125,354.78,STR002,10,17449.05
+2023-05-19,Azithromycin,Antibiotic,45,449.85,STR015,25,4567.2
+2023-05-21,Paracetamol,Analgesic,41,206.42,STR018,25,2899.28
+2023-05-22,Multivitamin,Supplement,24,379.11,STR016,0,5041.99
+2023-05-22,Rosuvastatin,Cholesterol,92,447.79,STR011,10,12474.83
+2023-05-23,Vitamin C,Supplement,158,7.6,STR015,0,713.63
+2023-05-23,Alprazolam,Sedative,59,43.16,STR006,10,1229.65
+2023-05-23,Albendazole,Antiparasitic,194,77.63,STR001,0,6989.56
+2023-05-24,Omega-3,Supplement,68,368.1,STR007,0,9556.07
+2023-05-27,Lisinopril,Antihypertensive,164,130.72,STR015,10,7716.7
+2023-05-27,Doxycycline,Antibiotic,9,67.48,STR015,5,211.42
+2023-05-27,Zinc Sulphate,Supplement,106,153.75,STR008,0,7056.57
+2023-05-27,Metformin,Antidiabetic,174,496.4,STR017,5,31396.58
+2023-05-28,Fexofenadine,Antihistamine,188,494.07,STR011,15,24269.0
+2023-05-28,Cephalexin,Antibiotic,175,348.36,STR020,0,29339.19
+2023-05-29,Simvastatin,Cholesterol,108,157.49,STR002,25,6548.85
+2023-05-30,Pantoprazole,Antacid,45,303.19,STR007,0,7461.06
+2023-05-30,Amoxicillin,Antibiotic,199,199.25,STR009,25,16222.67
+2023-05-30,Ibuprofen,Analgesic,106,480.79,STR011,10,21424.58
+2023-06-01,Diazepam,Sedative,11,157.59,STR005,0,572.61
+2023-06-01,Metronidazole,Antiparasitic,150,380.4,STR019,0,18403.08
+2023-06-01,Insulin Glargine,Antidiabetic,22,240.55,STR011,0,2305.0
+2023-06-01,Amoxicillin,Antibiotic,10,76.96,STR012,0,307.76
+2023-06-02,Doxycycline,Antibiotic,36,167.34,STR017,15,2822.73
+2023-06-02,Ranitidine,Antacid,87,491.89,STR001,0,18346.21
+2023-06-03,Rosuvastatin,Cholesterol,134,223.71,STR011,5,10961.99
+2023-06-03,Vitamin C,Supplement,46,213.65,STR001,0,2961.46
+2023-06-04,Paracetamol,Analgesic,130,230.72,STR007,0,12436.83
+2023-06-06,Losartan,Antihypertensive,107,206.76,STR003,25,7885.88
+2023-06-06,Metronidazole,Antiparasitic,94,404.81,STR019,20,16724.92
+2023-06-07,Cephalexin,Antibiotic,83,207.85,STR010,15,8312.34
+2023-06-07,Amlodipine,Antihypertensive,124,367.56,STR011,10,15068.18
+2023-06-07,Cetirizine,Antihistamine,35,10.74,STR005,0,209.3
+2023-06-08,Omeprazole,Antacid,46,441.3,STR006,0,11087.58
+2023-06-08,Aspirin,Analgesic,83,300.46,STR005,10,10163.59
+2023-06-09,Losartan,Antihypertensive,27,50.91,STR011,0,676.71
+2023-06-09,Rosuvastatin,Cholesterol,13,338.61,STR020,10,1850.39
+2023-06-09,Ciprofloxacin,Antibiotic,80,118.53,STR013,10,3985.9
+2023-06-09,Insulin Glargine,Antidiabetic,94,445.36,STR009,5,21082.49
+2023-06-11,Simvastatin,Cholesterol,131,116.0,STR012,5,5231.39
+2023-06-12,Vitamin D3,Supplement,34,309.17,STR003,20,4027.96
+2023-06-13,Diazepam,Sedative,17,195.46,STR020,25,1099.68
+2023-06-13,Vitamin D3,Supplement,120,251.89,STR017,10,12263.32
+2023-06-14,Salbutamol,Respiratory,178,250.26,STR014,20,12684.29
+2023-06-14,Cetirizine,Antihistamine,38,420.49,STR009,10,7748.35
+2023-06-14,Omega-3,Supplement,47,486.74,STR010,0,12619.37
+2023-06-15,Escitalopram,Antidepressant,63,26.36,STR001,0,929.29
+2023-06-15,Cetirizine,Antihistamine,170,347.3,STR020,0,18309.32
+2023-06-17,Sertraline,Antidepressant,57,135.18,STR013,20,2542.14
+2023-06-17,Amlodipine,Antihypertensive,9,207.25,STR008,0,601.3
+2023-06-18,Sertraline,Antidepressant,100,136.28,STR001,25,5257.94
+2023-06-18,Vitamin D3,Supplement,184,372.54,STR005,20,31143.07
+2023-06-19,Pantoprazole,Antacid,156,214.45,STR017,5,10212.22
+2023-06-21,Losartan,Antihypertensive,33,26.12,STR007,0,261.62
+2023-06-22,Albendazole,Antiparasitic,40,89.74,STR019,15,1059.49
+2023-06-22,Budesonide,Respiratory,43,222.14,STR018,0,5349.02
+2023-06-24,Sertraline,Antidepressant,188,42.13,STR006,0,3949.25
+2023-06-25,Omega-3,Supplement,42,233.82,STR008,10,2679.3
+2023-06-25,Azithromycin,Antibiotic,157,446.66,STR010,25,30756.16
+2023-06-25,Salbutamol,Respiratory,76,303.8,STR008,0,9848.84
+2023-06-27,Insulin Glargine,Antidiabetic,100,330.47,STR004,15,12605.84
+2023-06-27,Multivitamin,Supplement,97,25.11,STR004,10,949.23
+2023-06-28,Cephalexin,Antibiotic,78,206.01,STR019,0,8176.4
+2023-06-28,Cephalexin,Antibiotic,153,94.1,STR002,25,4496.12
+2023-06-29,Vitamin D3,Supplement,24,32.8,STR002,5,444.23
+2023-06-29,Vitamin D3,Supplement,3,104.85,STR015,10,153.32
+2023-07-01,Fluoxetine,Antidepressant,75,368.76,STR011,25,6423.43
+2023-07-01,Fexofenadine,Antihistamine,6,78.12,STR002,0,172.34
+2023-07-02,Vitamin C,Supplement,91,113.19,STR011,10,5053.82
+2023-07-02,Vitamin D3,Supplement,37,272.61,STR004,20,4312.89
+2023-07-03,Metronidazole,Antiparasitic,169,436.74,STR019,0,27990.17
+2023-07-03,Doxycycline,Antibiotic,162,418.91,STR019,25,21127.85
+2023-07-04,Omega-3,Supplement,83,55.79,STR010,15,1581.18
+2023-07-04,Ciprofloxacin,Antibiotic,86,317.36,STR016,0,13809.58
+2023-07-05,Metronidazole,Antiparasitic,193,466.52,STR002,25,27457.04
+2023-07-05,Glipizide,Antidiabetic,52,6.75,STR005,10,188.38
+2023-07-08,Amoxicillin,Antibiotic,123,61.47,STR009,0,3627.58
+2023-07-08,Zinc Sulphate,Supplement,130,83.89,STR003,20,4994.08
+2023-07-09,Insulin Glargine,Antidiabetic,83,468.23,STR016,0,20277.38
+2023-07-10,Paracetamol,Analgesic,76,286.05,STR011,5,11304.35
+2023-07-10,Diazepam,Sedative,8,370.01,STR013,5,1307.97
+2023-07-11,Rosuvastatin,Cholesterol,155,360.06,STR012,0,22416.76
+2023-07-12,Zinc Sulphate,Supplement,160,379.44,STR012,25,16938.33
+2023-07-14,Metformin,Antidiabetic,169,218.37,STR004,20,14073.01
+2023-07-14,Omega-3,Supplement,36,213.83,STR015,10,3195.32
+2023-07-14,Amlodipine,Antihypertensive,169,128.14,STR017,0,9365.49
+2023-07-15,Salbutamol,Respiratory,194,210.16,STR004,0,15018.28
+2023-07-16,Omeprazole,Antacid,143,152.76,STR009,10,7247.69
+2023-07-17,Cetirizine,Antihistamine,137,162.98,STR009,25,6676.08
+2023-07-18,Cetirizine,Antihistamine,93,93.82,STR008,0,3381.86
+2023-07-18,Montelukast,Respiratory,187,479.32,STR012,0,47426.47
+2023-07-18,Cetirizine,Antihistamine,46,491.81,STR015,0,12304.95
+2023-07-18,Paracetamol,Analgesic,7,235.12,STR004,0,623.38
+2023-07-18,Salbutamol,Respiratory,173,242.16,STR011,25,11337.17
+2023-07-20,Salbutamol,Respiratory,98,287.05,STR008,5,12031.56
+2023-07-20,Omega-3,Supplement,39,8.16,STR008,20,150.93
+2023-07-24,Cetirizine,Antihistamine,74,324.72,STR011,0,9715.29
+2023-07-25,Amoxicillin,Antibiotic,9,230.94,STR008,15,686.55
+2023-07-25,Salbutamol,Respiratory,146,446.96,STR014,25,27262.36
+2023-07-26,Ciprofloxacin,Antibiotic,130,17.34,STR015,25,555.4
+2023-07-27,Diazepam,Sedative,189,340.81,STR011,15,30866.46
+2023-07-28,Ranitidine,Antacid,34,464.2,STR018,25,3974.26
+2023-07-29,Zinc Sulphate,Supplement,76,211.19,STR001,0,7348.35
+2023-07-30,Fexofenadine,Antihistamine,93,57.76,STR014,20,1738.39
+2023-07-30,Iron Folic Acid,Supplement,171,161.89,STR002,15,13074.06
+2023-07-31,Escitalopram,Antidepressant,198,294.12,STR013,0,19973.72
+2023-07-31,Amoxicillin,Antibiotic,90,268.48,STR019,0,12151.77
+2023-07-31,Lisinopril,Antihypertensive,64,418.99,STR007,15,12609.15
+2023-08-01,Cephalexin,Antibiotic,106,27.52,STR014,15,1070.86
+2023-08-02,Vitamin C,Supplement,175,480.8,STR013,15,39508.28
+2023-08-04,Omeprazole,Antacid,91,391.16,STR004,20,8766.44
+2023-08-04,Diazepam,Sedative,156,329.08,STR019,25,17998.47
+2023-08-05,Zinc Sulphate,Supplement,174,435.75,STR015,0,28636.23
+2023-08-07,Multivitamin,Supplement,34,466.96,STR009,0,5338.03
+2023-08-07,Atorvastatin,Cholesterol,158,344.85,STR014,5,29711.05
+2023-08-08,Cephalexin,Antibiotic,178,458.66,STR010,25,33061.52
+2023-08-09,Atorvastatin,Cholesterol,187,306.4,STR018,20,25973.51
+2023-08-10,Alprazolam,Sedative,121,434.31,STR020,0,28072.54
+2023-08-10,Albendazole,Antiparasitic,119,143.19,STR016,20,5168.4
+2023-08-12,Clonazepam,Sedative,174,262.72,STR010,20,15529.86
+2023-08-13,Simvastatin,Cholesterol,119,29.86,STR017,5,1096.28
+2023-08-13,Metronidazole,Antiparasitic,91,467.93,STR013,0,23299.39
+2023-08-15,Salbutamol,Respiratory,20,257.69,STR006,0,2271.89
+2023-08-15,Lisinopril,Antihypertensive,123,80.83,STR005,15,4016.2
+2023-08-15,Losartan,Antihypertensive,85,183.59,STR011,5,4668.47
+2023-08-15,Atorvastatin,Cholesterol,173,367.13,STR002,20,15684.68
+2023-08-16,Losartan,Antihypertensive,6,386.9,STR011,10,677.48
+2023-08-17,Albendazole,Antiparasitic,35,235.03,STR010,0,3956.44
+2023-08-19,Amlodipine,Antihypertensive,7,27.88,STR005,25,60.98
+2023-08-19,Fexofenadine,Antihistamine,69,254.27,STR012,20,7254.44
+2023-08-20,Ranitidine,Antacid,16,79.81,STR019,0,733.34
+2023-08-21,Doxycycline,Antibiotic,163,389.82,STR001,20,29674.08
+2023-08-22,Lisinopril,Antihypertensive,169,100.6,STR001,15,7462.87
+2023-08-22,Escitalopram,Antidepressant,117,202.37,STR011,0,11986.28
+2023-08-24,Omeprazole,Antacid,89,81.79,STR015,5,2204.45
+2023-08-25,Ibuprofen,Analgesic,21,345.63,STR012,25,3047.23
+2023-08-26,Omega-3,Supplement,45,211.85,STR002,0,3048.95
+2023-08-26,Zinc Sulphate,Supplement,106,291.46,STR011,15,11926.37
+2023-08-27,Multivitamin,Supplement,7,282.82,STR020,20,845.54
+2023-08-27,Metformin,Antidiabetic,72,229.44,STR013,15,7739.85
+2023-08-27,Salbutamol,Respiratory,153,6.4,STR005,0,297.42
+2023-08-27,Azithromycin,Antibiotic,189,75.09,STR002,0,6508.94
+2023-08-28,Amlodipine,Antihypertensive,40,380.08,STR012,0,8609.4
+2023-08-29,Ciprofloxacin,Antibiotic,114,401.62,STR015,25,19696.36
+2023-08-30,Alprazolam,Sedative,85,154.46,STR009,0,6847.27
+2023-08-30,Vitamin C,Supplement,21,200.43,STR010,0,1891.41
+2023-08-30,Multivitamin,Supplement,16,314.77,STR009,20,1341.19
+2023-08-31,Rosuvastatin,Cholesterol,125,243.27,STR014,20,8010.08
+2023-08-31,Vitamin D3,Supplement,93,279.24,STR001,15,10149.11
+2023-08-31,Multivitamin,Supplement,106,463.65,STR009,15,24645.56
+2023-09-02,Loratadine,Antihistamine,47,189.79,STR004,0,3985.09
+2023-09-05,Budesonide,Respiratory,153,225.82,STR016,25,10985.39
+2023-09-05,Albendazole,Antiparasitic,134,172.02,STR007,0,11664.08
+2023-09-06,Fexofenadine,Antihistamine,72,409.16,STR013,20,11559.81
+2023-09-07,Atorvastatin,Cholesterol,193,430.92,STR001,0,30478.74
+2023-09-10,Omeprazole,Antacid,112,291.84,STR011,0,10651.53
+2023-09-11,Amlodipine,Antihypertensive,160,80.43,STR001,0,5893.03
+2023-09-12,Glipizide,Antidiabetic,196,211.01,STR018,5,14430.92
+2023-09-12,Vitamin C,Supplement,170,339.77,STR012,20,25664.49
+2023-09-14,Sertraline,Antidepressant,32,487.43,STR001,5,7180.16
+2023-09-15,Amoxicillin,Antibiotic,163,214.67,STR003,10,18478.74
+2023-09-17,Pantoprazole,Antacid,109,284.51,STR018,10,8441.8
+2023-09-18,Vitamin C,Supplement,22,145.22,STR008,20,1335.85
+2023-09-18,Vitamin C,Supplement,116,373.57,STR004,10,19177.09
+2023-09-18,Budesonide,Respiratory,115,480.11,STR015,0,21097.09
+2023-09-24,Sertraline,Antidepressant,55,230.08,STR011,15,3997.35
+2023-09-25,Loratadine,Antihistamine,39,261.06,STR007,5,3192.76
+2023-09-25,Simvastatin,Cholesterol,130,57.7,STR014,0,3368.32
+2023-09-26,Ciprofloxacin,Antibiotic,129,220.07,STR013,0,10543.41
+2023-09-27,Multivitamin,Supplement,130,456.75,STR006,10,18570.27
+2023-09-27,Metronidazole,Antiparasitic,128,230.32,STR003,15,14618.52
+2023-09-27,Albendazole,Antiparasitic,146,91.06,STR018,20,5215.92
+2023-09-27,Lisinopril,Antihypertensive,21,306.47,STR012,20,1651.67
+2023-09-27,Omeprazole,Antacid,121,479.47,STR009,15,24174.59
+2023-09-27,Omega-3,Supplement,117,5.36,STR012,20,190.6
+2023-09-28,Ciprofloxacin,Antibiotic,62,91.04,STR006,0,3121.62
+2023-09-29,Simvastatin,Cholesterol,18,248.4,STR015,5,1770.88
+2023-09-30,Atorvastatin,Cholesterol,16,87.13,STR003,10,528.83
+2023-10-01,Alprazolam,Sedative,37,52.92,STR008,10,557.54
+2023-10-01,Metformin,Antidiabetic,168,294.17,STR009,25,13642.1
+2023-10-03,Loratadine,Antihistamine,127,77.24,STR009,0,4606.5
+2023-10-03,Glipizide,Antidiabetic,86,404.52,STR001,10,13865.37
+2023-10-04,Metformin,Antidiabetic,23,97.76,STR005,25,730.03
+2023-10-04,Omeprazole,Antacid,111,428.87,STR018,5,25155.9
+2023-10-06,Multivitamin,Supplement,127,221.69,STR018,0,9380.37
+2023-10-06,Sertraline,Antidepressant,108,326.18,STR016,0,19941.66
+2023-10-06,Cephalexin,Antibiotic,49,163.72,STR016,0,4693.92
+2023-10-07,Rosuvastatin,Cholesterol,124,483.86,STR009,10,20305.28
+2023-10-07,Atorvastatin,Cholesterol,71,61.66,STR006,0,2355.41
+2023-10-08,Ciprofloxacin,Antibiotic,65,45.8,STR012,0,1739.95
+2023-10-08,Budesonide,Respiratory,130,201.49,STR015,0,10363.48
+2023-10-09,Lisinopril,Antihypertensive,74,88.26,STR018,25,2107.82
+2023-10-09,Doxycycline,Antibiotic,42,39.09,STR018,0,763.73
+2023-10-10,Escitalopram,Antidepressant,130,137.25,STR011,0,9191.53
+2023-10-10,Albendazole,Antiparasitic,102,395.63,STR004,0,12483.57
+2023-10-11,Lisinopril,Antihypertensive,50,230.11,STR020,20,3935.14
+2023-10-11,Diazepam,Sedative,66,85.17,STR011,0,2905.12
+2023-10-12,Budesonide,Respiratory,125,167.01,STR015,0,7083.89
+2023-10-12,Amoxicillin,Antibiotic,58,277.5,STR017,20,6167.82
+2023-10-16,Sertraline,Antidepressant,136,212.24,STR017,0,10245.0
+2023-10-17,Clonazepam,Sedative,176,120.54,STR003,10,6943.39
+2023-10-17,Sertraline,Antidepressant,199,172.49,STR014,0,12468.12
+2023-10-18,Multivitamin,Supplement,86,51.23,STR020,5,1666.5
+2023-10-19,Montelukast,Respiratory,173,257.67,STR011,25,11136.77
+2023-10-19,Doxycycline,Antibiotic,133,71.87,STR001,10,5144.75
+2023-10-22,Lisinopril,Antihypertensive,112,489.28,STR003,0,25585.63
+2023-10-22,Ciprofloxacin,Antibiotic,114,329.71,STR012,25,15104.42
+2023-10-23,Omeprazole,Antacid,32,28.64,STR010,20,299.37
+2023-10-23,Azithromycin,Antibiotic,130,227.93,STR013,10,9397.91
+2023-10-24,Lisinopril,Antihypertensive,82,290.85,STR019,15,10722.57
+2023-10-25,Montelukast,Respiratory,182,326.79,STR005,0,26694.63
+2023-10-26,Multivitamin,Supplement,107,418.19,STR009,25,17681.98
+2023-10-26,Sertraline,Antidepressant,148,226.34,STR020,5,12587.59
+2023-10-29,Cephalexin,Antibiotic,177,260.9,STR002,0,21285.25
+2023-10-29,Amoxicillin,Antibiotic,141,484.11,STR012,0,26552.52
+2023-10-29,Cetirizine,Antihistamine,10,349.05,STR006,10,1199.75
+2023-10-30,Ibuprofen,Analgesic,71,9.01,STR013,0,209.07
+2023-10-30,Escitalopram,Antidepressant,30,416.5,STR003,0,6191.29
+2023-10-30,Amoxicillin,Antibiotic,127,196.01,STR008,5,10644.83
+2023-10-30,Pantoprazole,Antacid,104,197.2,STR014,0,8718.15
+2023-10-30,Rosuvastatin,Cholesterol,141,250.7,STR002,5,13215.53
+2023-10-31,Diazepam,Sedative,179,473.32,STR009,5,29272.9
+2023-11-02,Albendazole,Antiparasitic,169,247.37,STR019,0,19482.87
+2023-11-03,Diazepam,Sedative,117,423.43,STR009,5,14128.12
+2023-11-03,Vitamin C,Supplement,95,168.96,STR001,0,4912.16
+2023-11-03,Rosuvastatin,Cholesterol,62,285.51,STR019,20,5620.47
+2023-11-03,Sertraline,Antidepressant,162,345.98,STR004,25,24151.74
+2023-11-04,Multivitamin,Supplement,171,207.15,STR010,20,11075.6
+2023-11-04,Ciprofloxacin,Antibiotic,103,286.69,STR019,5,10652.15
+2023-11-04,Aspirin,Analgesic,98,43.85,STR019,0,1389.91
+2023-11-05,Doxycycline,Antibiotic,145,392.4,STR004,15,21288.38
+2023-11-05,Losartan,Antihypertensive,196,131.48,STR005,15,12354.28
+2023-11-06,Escitalopram,Antidepressant,36,27.45,STR004,0,502.69
+2023-11-06,Vitamin C,Supplement,176,206.02,STR008,25,15721.44
+2023-11-06,Losartan,Antihypertensive,78,91.63,STR017,15,2214.46
+2023-11-10,Albendazole,Antiparasitic,122,278.97,STR012,15,13664.67
+2023-11-10,Alprazolam,Sedative,184,215.93,STR020,25,14736.35
+2023-11-10,Rosuvastatin,Cholesterol,59,244.7,STR009,10,4795.6
+2023-11-11,Omeprazole,Antacid,62,439.61,STR002,0,15653.13
+2023-11-11,Metformin,Antidiabetic,136,491.64,STR007,20,24198.61
+2023-11-12,Aspirin,Analgesic,102,492.3,STR008,0,30012.96
+2023-11-13,Zinc Sulphate,Supplement,111,497.86,STR005,0,22277.98
+2023-11-14,Fluoxetine,Antidepressant,153,355.87,STR005,0,27612.02
+2023-11-14,Clonazepam,Sedative,60,473.99,STR016,0,9716.92
+2023-11-15,Iron Folic Acid,Supplement,142,206.96,STR001,5,8440.52
+2023-11-15,Fexofenadine,Antihistamine,142,231.09,STR003,15,15056.37
+2023-11-16,Vitamin D3,Supplement,119,349.98,STR012,0,20862.35
+2023-11-16,Salbutamol,Respiratory,183,380.41,STR007,0,21434.15
+2023-11-17,Pantoprazole,Antacid,40,344.98,STR012,25,6001.2
+2023-11-17,Diazepam,Sedative,25,426.37,STR004,0,6364.62
+2023-11-17,Omeprazole,Antacid,183,371.21,STR008,20,28096.22
+2023-11-18,Omeprazole,Antacid,102,69.78,STR009,10,2964.82
+2023-11-19,Ibuprofen,Analgesic,151,76.37,STR007,20,2964.5
+2023-11-19,Insulin Glargine,Antidiabetic,71,324.09,STR008,5,9486.77
+2023-11-19,Aspirin,Analgesic,106,47.96,STR009,5,2359.37
+2023-11-20,Loratadine,Antihistamine,102,494.62,STR017,25,19827.56
+2023-11-21,Azithromycin,Antibiotic,120,341.65,STR015,15,19567.31
+2023-11-21,Budesonide,Respiratory,24,7.57,STR004,10,76.29
+2023-11-21,Loratadine,Antihistamine,174,155.75,STR019,20,8339.64
+2023-11-22,Cephalexin,Antibiotic,164,284.95,STR008,25,19550.49
+2023-11-22,Vitamin D3,Supplement,85,310.09,STR015,10,9298.09
+2023-11-24,Ranitidine,Antacid,147,189.54,STR003,0,15218.34
+2023-11-25,Ranitidine,Antacid,155,324.55,STR014,5,22341.1
+2023-11-25,Montelukast,Respiratory,168,16.98,STR020,10,1410.06
+2023-11-26,Amlodipine,Antihypertensive,147,194.57,STR008,20,13429.25
+2023-11-26,Zinc Sulphate,Supplement,5,339.99,STR007,5,859.35
+2023-11-27,Doxycycline,Antibiotic,7,50.21,STR009,0,105.49
+2023-11-28,Doxycycline,Antibiotic,145,275.08,STR008,20,11815.61
+2023-11-29,Sertraline,Antidepressant,75,209.84,STR001,0,6020.52
+2023-11-29,Vitamin C,Supplement,125,413.72,STR006,0,21794.29
+2023-11-29,Clonazepam,Sedative,8,37.36,STR016,0,147.82
+2023-11-30,Vitamin C,Supplement,139,467.75,STR015,25,27281.18
+2023-12-01,Escitalopram,Antidepressant,52,70.42,STR006,15,1371.84
+2023-12-01,Fexofenadine,Antihistamine,70,120.64,STR015,5,4485.95
+2023-12-02,Atorvastatin,Cholesterol,183,127.87,STR003,15,9569.7
+2023-12-05,Iron Folic Acid,Supplement,119,119.77,STR014,20,4687.08
+2023-12-06,Ranitidine,Antacid,95,221.29,STR004,20,6340.53
+2023-12-06,Diazepam,Sedative,3,53.81,STR004,5,68.52
+2023-12-06,Omeprazole,Antacid,191,240.23,STR002,10,13664.3
+2023-12-06,Budesonide,Respiratory,150,150.56,STR009,0,10362.42
+2023-12-07,Escitalopram,Antidepressant,69,83.8,STR008,0,2805.74
+2023-12-07,Insulin Glargine,Antidiabetic,91,275.28,STR002,0,8789.84
+2023-12-08,Insulin Glargine,Antidiabetic,42,371.91,STR009,20,5394.95
+2023-12-08,Omeprazole,Antacid,145,106.58,STR005,5,6226.16
+2023-12-08,Salbutamol,Respiratory,186,286.62,STR013,0,18679.6
+2023-12-09,Montelukast,Respiratory,107,465.47,STR014,0,16887.18
+2023-12-09,Omeprazole,Antacid,30,326.27,STR018,5,3478.16
+2023-12-10,Fexofenadine,Antihistamine,21,73.5,STR018,5,711.3
+2023-12-10,Ciprofloxacin,Antibiotic,91,115.55,STR008,10,4484.38
+2023-12-11,Loratadine,Antihistamine,35,488.05,STR011,20,4952.99
+2023-12-13,Glipizide,Antidiabetic,20,74.67,STR015,5,485.15
+2023-12-14,Iron Folic Acid,Supplement,194,76.41,STR012,20,5336.2
+2023-12-15,Glipizide,Antidiabetic,112,83.29,STR010,0,2927.79
+2023-12-15,Glipizide,Antidiabetic,66,438.68,STR017,10,10207.86
+2023-12-16,Rosuvastatin,Cholesterol,80,362.19,STR012,0,9706.62
+2023-12-16,Vitamin D3,Supplement,58,499.99,STR007,0,16728.33
+2023-12-18,Clonazepam,Sedative,134,244.05,STR007,25,13997.89
+2023-12-18,Metformin,Antidiabetic,190,125.74,STR006,0,10378.72
+2023-12-18,Cetirizine,Antihistamine,35,73.4,STR015,10,802.48
+2023-12-19,Doxycycline,Antibiotic,12,366.22,STR009,0,1353.84
+2023-12-19,Azithromycin,Antibiotic,16,467.62,STR018,0,2275.69
+2023-12-19,Omega-3,Supplement,194,296.91,STR014,0,20031.21
+2023-12-19,Loratadine,Antihistamine,27,194.86,STR005,10,2603.8
+2023-12-19,Ciprofloxacin,Antibiotic,3,307.69,STR019,20,255.29
+2023-12-20,Amoxicillin,Antibiotic,194,410.67,STR009,0,43796.17
+2023-12-21,Amoxicillin,Antibiotic,112,119.91,STR004,0,6685.71
+2023-12-21,Alprazolam,Sedative,165,308.78,STR008,5,15117.21
+2023-12-22,Zinc Sulphate,Supplement,185,133.33,STR017,15,11781.31
+2023-12-24,Ibuprofen,Analgesic,14,201.24,STR014,15,1267.46
+2023-12-25,Pantoprazole,Antacid,185,5.63,STR004,20,390.4
+2023-12-25,Montelukast,Respiratory,67,375.74,STR006,0,12951.8
+2023-12-25,Cephalexin,Antibiotic,160,77.18,STR015,0,3985.4
+2023-12-25,Iron Folic Acid,Supplement,70,75.07,STR011,10,2023.12
+2023-12-26,Paracetamol,Analgesic,37,285.33,STR006,20,4891.15
+2023-12-26,Lisinopril,Antihypertensive,65,100.57,STR010,0,2707.52
+2023-12-27,Rosuvastatin,Cholesterol,185,275.54,STR005,0,16563.28
+2023-12-28,Montelukast,Respiratory,124,444.15,STR016,0,24753.22
+2023-12-28,Fluoxetine,Antidepressant,151,104.15,STR013,0,5959.18
+2023-12-30,Losartan,Antihypertensive,180,468.64,STR009,0,35198.11
+2023-12-30,Cetirizine,Antihistamine,134,190.08,STR018,0,14932.63
+2024-01-01,Insulin Glargine,Antidiabetic,26,146.14,STR008,0,1253.75
+2024-01-02,Omeprazole,Antacid,83,12.81,STR019,10,559.1
+2024-01-03,Glipizide,Antidiabetic,8,121.44,STR010,20,320.55
+2024-01-04,Omeprazole,Antacid,171,63.52,STR002,10,5397.03
+2024-01-04,Insulin Glargine,Antidiabetic,123,234.11,STR011,15,8996.71
+2024-01-04,Omeprazole,Antacid,41,47.99,STR001,10,648.3
+2024-01-05,Azithromycin,Antibiotic,140,256.13,STR017,0,17314.63
+2024-01-07,Albendazole,Antiparasitic,116,209.92,STR017,0,8370.23
+2024-01-08,Amoxicillin,Antibiotic,117,169.33,STR008,25,5720.64
+2024-01-08,Alprazolam,Sedative,25,380.86,STR004,5,5421.29
+2024-01-08,Cetirizine,Antihistamine,112,129.43,STR007,25,6381.99
+2024-01-10,Aspirin,Analgesic,14,287.29,STR013,5,1877.02
+2024-01-11,Budesonide,Respiratory,146,21.03,STR013,0,1216.73
+2024-01-11,Omega-3,Supplement,195,360.9,STR002,5,20262.09
+2024-01-14,Cetirizine,Antihistamine,113,417.7,STR006,10,17692.82
+2024-01-14,Lisinopril,Antihypertensive,172,107.35,STR002,15,7589.46
+2024-01-14,Simvastatin,Cholesterol,180,121.92,STR009,0,7904.55
+2024-01-15,Omega-3,Supplement,151,372.42,STR014,0,18803.77
+2024-01-15,Losartan,Antihypertensive,114,475.52,STR015,15,26273.32
+2024-01-15,Budesonide,Respiratory,196,43.06,STR015,0,3723.3
+2024-01-15,Ciprofloxacin,Antibiotic,186,415.56,STR018,0,40151.34
+2024-01-15,Fexofenadine,Antihistamine,12,283.45,STR014,5,1220.23
+2024-01-15,Aspirin,Analgesic,110,118.6,STR017,25,3553.08
+2024-01-15,Clonazepam,Sedative,161,40.0,STR001,15,2412.52
+2024-01-19,Diazepam,Sedative,63,267.93,STR005,0,9266.98
+2024-01-21,Salbutamol,Respiratory,172,352.9,STR005,0,24655.4
+2024-01-21,Simvastatin,Cholesterol,122,124.28,STR018,5,7342.88
+2024-01-22,Metronidazole,Antiparasitic,198,125.42,STR016,15,6577.91
+2024-01-23,Ciprofloxacin,Antibiotic,76,415.56,STR018,15,11457.37
+2024-01-24,Ranitidine,Antacid,65,418.28,STR014,25,12116.12
+2024-01-24,Albendazole,Antiparasitic,84,183.99,STR004,10,7564.82
+2024-01-24,Azithromycin,Antibiotic,141,37.14,STR014,25,2198.0
+2024-01-25,Alprazolam,Sedative,77,430.78,STR015,20,13490.55
+2024-01-25,Clonazepam,Sedative,167,182.83,STR018,10,13522.77
+2024-01-25,Aspirin,Analgesic,86,284.92,STR006,0,13510.11
+2024-01-26,Budesonide,Respiratory,115,27.09,STR006,25,1075.92
+2024-01-26,Montelukast,Respiratory,190,454.39,STR019,0,40780.19
+2024-01-26,Cephalexin,Antibiotic,119,317.7,STR010,0,12836.1
+2024-01-27,Diazepam,Sedative,91,111.28,STR006,0,5240.51
+2024-01-28,Ciprofloxacin,Antibiotic,27,160.11,STR004,10,2174.35
+2024-01-29,Iron Folic Acid,Supplement,168,250.01,STR017,25,14972.89
+2024-01-29,Escitalopram,Antidepressant,178,382.38,STR020,10,29442.64
+2024-01-29,Azithromycin,Antibiotic,54,407.89,STR011,20,6426.43
+2024-01-31,Salbutamol,Respiratory,128,347.57,STR006,15,12203.36
+2024-01-31,Amoxicillin,Antibiotic,147,391.02,STR006,5,18722.56
+2024-02-03,Simvastatin,Cholesterol,30,432.97,STR020,10,4540.71
+2024-02-07,Metronidazole,Antiparasitic,126,81.03,STR018,15,5197.05
+2024-02-07,Rosuvastatin,Cholesterol,89,343.73,STR001,15,10724.51
+2024-02-08,Omega-3,Supplement,22,155.82,STR018,15,1563.21
+2024-02-08,Cephalexin,Antibiotic,153,270.4,STR019,0,18360.76
+2024-02-08,Vitamin C,Supplement,116,250.17,STR004,0,12549.69
+2024-02-10,Pantoprazole,Antacid,191,112.86,STR001,0,12640.87
+2024-02-10,Salbutamol,Respiratory,98,403.02,STR020,15,15709.25
+2024-02-11,Losartan,Antihypertensive,142,392.98,STR014,25,22867.47
+2024-02-11,Metformin,Antidiabetic,17,468.71,STR004,25,2602.39
+2024-02-12,Fexofenadine,Antihistamine,64,480.46,STR009,0,11663.19
+2024-02-12,Insulin Glargine,Antidiabetic,192,118.74,STR004,0,12993.0
+2024-02-13,Vitamin C,Supplement,122,374.34,STR010,5,21088.19
+2024-02-15,Cephalexin,Antibiotic,74,357.24,STR017,0,8361.24
+2024-02-15,Ranitidine,Antacid,47,287.85,STR015,5,4572.19
+2024-02-15,Albendazole,Antiparasitic,62,312.33,STR014,0,5961.01
+2024-02-16,Ciprofloxacin,Antibiotic,138,309.94,STR018,10,22131.32
+2024-02-18,Multivitamin,Supplement,169,435.34,STR001,25,26266.79
+2024-02-18,Ibuprofen,Analgesic,58,364.95,STR008,0,11359.17
+2024-02-18,Azithromycin,Antibiotic,58,6.64,STR018,25,162.8
+2024-02-20,Clonazepam,Sedative,63,495.17,STR019,5,15114.55
+2024-02-20,Metformin,Antidiabetic,143,326.48,STR011,10,18495.32
+2024-02-21,Vitamin D3,Supplement,195,123.96,STR018,25,7364.59
+2024-02-21,Vitamin D3,Supplement,96,411.4,STR017,0,22919.19
+2024-02-22,Sertraline,Antidepressant,162,205.2,STR015,15,16810.44
+2024-02-23,Alprazolam,Sedative,121,149.17,STR020,5,8806.21
+2024-02-23,Vitamin D3,Supplement,163,154.9,STR005,10,9144.09
+2024-02-25,Doxycycline,Antibiotic,150,411.12,STR005,0,25471.13
+2024-02-26,Paracetamol,Analgesic,136,362.49,STR001,10,26393.09
+2024-02-26,Amoxicillin,Antibiotic,168,67.81,STR009,0,5981.95
+2024-02-27,Aspirin,Analgesic,141,5.08,STR018,0,259.63
+2024-02-27,Lisinopril,Antihypertensive,194,106.26,STR007,0,6635.15
+2024-02-27,Sertraline,Antidepressant,170,222.89,STR008,0,20337.89
+2024-02-27,Amlodipine,Antihypertensive,57,41.4,STR013,25,1033.06
+2024-02-28,Amoxicillin,Antibiotic,77,284.65,STR017,15,8075.26
+2024-02-29,Salbutamol,Respiratory,124,339.24,STR004,25,16935.32
+2024-03-01,Clonazepam,Sedative,15,281.6,STR019,10,1456.07
+2024-03-03,Cetirizine,Antihistamine,104,15.32,STR004,15,742.74
+2024-03-04,Doxycycline,Antibiotic,148,194.94,STR005,0,13098.38
+2024-03-05,Omega-3,Supplement,155,449.42,STR018,25,27907.94
+2024-03-05,Amlodipine,Antihypertensive,64,317.22,STR017,0,6155.16
+2024-03-05,Rosuvastatin,Cholesterol,127,441.48,STR014,15,20787.97
+2024-03-06,Alprazolam,Sedative,75,98.59,STR001,0,2502.67
+2024-03-07,Zinc Sulphate,Supplement,191,36.46,STR004,25,1914.69
+2024-03-07,Loratadine,Antihistamine,20,183.76,STR016,5,1339.77
+2024-03-09,Multivitamin,Supplement,5,184.49,STR012,0,290.25
+2024-03-09,Sertraline,Antidepressant,115,495.4,STR003,25,18173.47
+2024-03-10,Vitamin D3,Supplement,114,210.02,STR020,5,8495.71
+2024-03-10,Metformin,Antidiabetic,138,415.23,STR007,20,18613.06
+2024-03-13,Fluoxetine,Antidepressant,156,368.99,STR002,20,17680.41
+2024-03-15,Sertraline,Antidepressant,181,111.32,STR001,10,6787.61
+2024-03-15,Losartan,Antihypertensive,69,164.82,STR016,10,5104.08
+2024-03-16,Doxycycline,Antibiotic,77,163.73,STR005,5,5465.0
+2024-03-20,Rosuvastatin,Cholesterol,26,168.89,STR002,5,1990.75
+2024-03-21,Simvastatin,Cholesterol,167,138.69,STR017,25,7999.97
+2024-03-21,Amlodipine,Antihypertensive,153,132.65,STR005,0,11647.39
+2024-03-21,Metronidazole,Antiparasitic,140,348.6,STR011,0,19580.96
+2024-03-22,Vitamin D3,Supplement,100,171.38,STR001,20,5247.6
+2024-03-22,Atorvastatin,Cholesterol,157,230.22,STR007,20,14109.51
+2024-03-25,Cephalexin,Antibiotic,177,165.82,STR016,25,7346.13
+2024-03-26,Metformin,Antidiabetic,117,12.6,STR017,0,703.2
+2024-03-26,Fluoxetine,Antidepressant,199,414.67,STR010,25,34042.57
+2024-03-27,Aspirin,Analgesic,94,367.52,STR019,0,11300.69
+2024-03-27,Fexofenadine,Antihistamine,39,209.42,STR014,5,3700.17
+2024-03-28,Loratadine,Antihistamine,152,32.81,STR009,0,2527.86
+2024-03-28,Loratadine,Antihistamine,106,133.6,STR012,10,7606.9
+2024-03-29,Cephalexin,Antibiotic,110,416.13,STR017,25,11357.89
+2024-03-29,Omeprazole,Antacid,51,233.11,STR002,0,5274.48
+2024-03-30,Vitamin D3,Supplement,22,284.87,STR006,5,3050.56
+2024-04-01,Atorvastatin,Cholesterol,158,311.49,STR002,5,18973.81
+2024-04-04,Sertraline,Antidepressant,136,343.02,STR011,0,26627.8
+2024-04-04,Omega-3,Supplement,137,154.27,STR006,0,10115.87
+2024-04-05,Sertraline,Antidepressant,58,96.97,STR012,0,2399.41
+2024-04-05,Ibuprofen,Analgesic,87,32.75,STR002,0,1362.93
+2024-04-06,Omeprazole,Antacid,146,307.11,STR015,20,17902.26
+2024-04-06,Metformin,Antidiabetic,183,46.74,STR011,0,5031.61
+2024-04-06,Vitamin D3,Supplement,92,278.75,STR008,20,9651.66
+2024-04-06,Cephalexin,Antibiotic,92,476.16,STR002,25,18367.27
+2024-04-06,Clonazepam,Sedative,130,71.64,STR019,25,4181.85
+2024-04-07,Aspirin,Analgesic,95,416.69,STR002,0,16095.49
+2024-04-07,Clonazepam,Sedative,63,261.76,STR002,20,4021.81
+2024-04-09,Albendazole,Antiparasitic,117,49.64,STR007,15,1937.58
+2024-04-10,Aspirin,Analgesic,167,165.42,STR002,10,8690.44
+2024-04-13,Aspirin,Analgesic,52,26.68,STR010,5,440.56
+2024-04-13,Amlodipine,Antihypertensive,70,105.09,STR012,0,4342.95
+2024-04-13,Ciprofloxacin,Antibiotic,101,449.48,STR003,10,12768.98
+2024-04-14,Clonazepam,Sedative,8,243.58,STR019,10,1016.72
+2024-04-15,Azithromycin,Antibiotic,148,217.5,STR011,20,9969.89
+2024-04-15,Sertraline,Antidepressant,30,7.03,STR017,0,83.07
+2024-04-15,Cetirizine,Antihistamine,46,279.47,STR007,20,4132.1
+2024-04-17,Losartan,Antihypertensive,75,416.48,STR015,0,11067.24
+2024-04-17,Amoxicillin,Antibiotic,147,219.41,STR006,20,11641.16
+2024-04-17,Rosuvastatin,Cholesterol,197,177.56,STR010,0,15657.27
+2024-04-19,Albendazole,Antiparasitic,39,175.76,STR017,0,3120.02
+2024-04-21,Cetirizine,Antihistamine,41,41.56,STR018,15,439.88
+2024-04-21,Metronidazole,Antiparasitic,24,407.36,STR005,25,4185.53
+2024-04-23,Insulin Glargine,Antidiabetic,137,18.35,STR020,20,849.58
+2024-04-24,Ranitidine,Antacid,29,168.69,STR007,25,1487.84
+2024-04-25,Amlodipine,Antihypertensive,174,473.83,STR012,25,28536.52
+2024-04-25,Vitamin D3,Supplement,20,376.96,STR006,15,3381.88
+2024-04-26,Aspirin,Analgesic,96,130.56,STR013,0,6177.54
+2024-04-27,Vitamin D3,Supplement,24,322.72,STR009,20,3374.06
+2024-04-27,Insulin Glargine,Antidiabetic,186,405.13,STR009,0,23806.12
+2024-04-28,Aspirin,Analgesic,105,94.09,STR010,0,3657.88
+2024-04-29,Sertraline,Antidepressant,170,397.23,STR013,0,30482.73
+2024-04-30,Vitamin D3,Supplement,41,336.72,STR006,0,8059.55
+2024-05-01,Alprazolam,Sedative,193,127.38,STR009,10,8192.25
+2024-05-01,Insulin Glargine,Antidiabetic,143,195.37,STR007,15,8264.3
+2024-05-02,Insulin Glargine,Antidiabetic,37,321.71,STR007,25,4252.95
+2024-05-03,Azithromycin,Antibiotic,152,116.96,STR005,25,7962.92
+2024-05-03,Sertraline,Antidepressant,10,269.22,STR001,15,720.79
+2024-05-04,Paracetamol,Analgesic,158,104.72,STR011,0,8236.02
+2024-05-05,Fluoxetine,Antidepressant,176,58.44,STR014,25,4458.37
+2024-05-05,Zinc Sulphate,Supplement,197,207.67,STR014,0,23008.42
+2024-05-07,Salbutamol,Respiratory,1,11.31,STR008,0,3.71
+2024-05-07,Iron Folic Acid,Supplement,125,200.68,STR007,5,10286.54
+2024-05-09,Metformin,Antidiabetic,98,288.1,STR008,10,7678.84
+2024-05-10,Ranitidine,Antacid,195,264.7,STR019,10,14208.07
+2024-05-10,Montelukast,Respiratory,142,382.62,STR011,20,20141.83
+2024-05-10,Montelukast,Respiratory,57,381.93,STR002,5,12018.89
+2024-05-11,Glipizide,Antidiabetic,162,306.39,STR001,5,18251.45
+2024-05-11,Doxycycline,Antibiotic,23,97.28,STR018,25,724.58
+2024-05-12,Azithromycin,Antibiotic,197,67.25,STR018,25,3139.29
+2024-05-12,Amlodipine,Antihypertensive,9,287.65,STR004,20,833.87
+2024-05-13,Fexofenadine,Antihistamine,182,484.53,STR006,15,39954.13
+2024-05-13,Iron Folic Acid,Supplement,45,324.55,STR004,0,5074.6
+2024-05-13,Diazepam,Sedative,22,72.92,STR005,20,438.86
+2024-05-15,Ciprofloxacin,Antibiotic,115,405.3,STR017,25,19590.56
+2024-05-16,Metformin,Antidiabetic,93,319.61,STR014,25,8645.31
+2024-05-16,Amlodipine,Antihypertensive,48,274.09,STR019,15,4252.61
+2024-05-17,Alprazolam,Sedative,24,150.65,STR001,20,1135.19
+2024-05-17,Metformin,Antidiabetic,147,145.75,STR001,25,7518.0
+2024-05-18,Ciprofloxacin,Antibiotic,90,207.13,STR016,15,6321.7
+2024-05-18,Vitamin C,Supplement,3,384.11,STR010,10,436.51
+2024-05-19,Glipizide,Antidiabetic,61,444.19,STR004,0,13098.18
+2024-05-21,Fexofenadine,Antihistamine,125,110.0,STR006,10,6161.49
+2024-05-22,Doxycycline,Antibiotic,51,231.64,STR020,0,6008.45
+2024-05-22,Iron Folic Acid,Supplement,29,288.49,STR017,10,2766.87
+2024-05-23,Cetirizine,Antihistamine,156,401.96,STR008,5,24365.19
+2024-05-24,Diazepam,Sedative,34,193.2,STR006,5,2807.67
+2024-05-24,Clonazepam,Sedative,185,237.4,STR004,15,12158.79
+2024-05-24,Vitamin D3,Supplement,2,305.95,STR018,25,242.6
+2024-05-25,Escitalopram,Antidepressant,123,35.18,STR018,10,1889.17
+2024-05-25,Alprazolam,Sedative,31,490.43,STR011,0,8653.84
+2024-05-25,Diazepam,Sedative,108,351.85,STR007,15,15842.31
+2024-05-26,Fluoxetine,Antidepressant,37,136.12,STR015,5,1801.42
+2024-05-26,Zinc Sulphate,Supplement,144,63.29,STR013,10,3188.99
+2024-05-26,Ciprofloxacin,Antibiotic,87,465.77,STR020,0,23586.53
+2024-05-26,Atorvastatin,Cholesterol,82,82.25,STR015,15,2326.53
+2024-05-29,Zinc Sulphate,Supplement,15,480.59,STR006,0,2484.15
+2024-05-29,Fexofenadine,Antihistamine,70,94.01,STR013,15,2354.15
+2024-05-29,Paracetamol,Analgesic,158,343.66,STR008,0,25310.27
+2024-05-31,Escitalopram,Antidepressant,156,52.67,STR005,25,2030.62
+2024-06-01,Insulin Glargine,Antidiabetic,20,297.99,STR013,0,2798.16
+2024-06-03,Doxycycline,Antibiotic,40,190.09,STR007,0,3331.79
+2024-06-03,Losartan,Antihypertensive,169,243.68,STR005,0,20383.64
+2024-06-04,Fluoxetine,Antidepressant,141,308.94,STR011,0,24035.77
+2024-06-07,Glipizide,Antidiabetic,148,99.09,STR013,0,5680.82
+2024-06-07,Pantoprazole,Antacid,186,344.37,STR006,25,20226.6
+2024-06-07,Iron Folic Acid,Supplement,147,81.58,STR019,0,5539.09
+2024-06-08,Escitalopram,Antidepressant,7,49.36,STR004,0,145.44
+2024-06-08,Aspirin,Analgesic,38,32.68,STR019,10,361.3
+2024-06-09,Albendazole,Antiparasitic,116,254.4,STR004,0,11267.87
+2024-06-09,Atorvastatin,Cholesterol,24,473.47,STR014,5,3832.15
+2024-06-12,Aspirin,Analgesic,18,439.11,STR013,10,2617.38
+2024-06-13,Alprazolam,Sedative,64,116.23,STR004,15,3753.85
+2024-06-13,Metronidazole,Antiparasitic,38,64.54,STR020,25,1008.24
+2024-06-13,Budesonide,Respiratory,131,225.55,STR017,0,15100.61
+2024-06-13,Fluoxetine,Antidepressant,145,320.62,STR020,10,13214.36
+2024-06-13,Cephalexin,Antibiotic,73,325.99,STR009,10,10197.51
+2024-06-15,Ranitidine,Antacid,187,215.13,STR003,20,13493.36
+2024-06-15,Iron Folic Acid,Supplement,177,289.74,STR019,25,18760.86
+2024-06-16,Escitalopram,Antidepressant,118,487.4,STR012,0,24487.33
+2024-06-17,Vitamin D3,Supplement,71,222.74,STR008,10,7538.58
+2024-06-19,Escitalopram,Antidepressant,176,434.11,STR018,25,24536.12
+2024-06-19,Metformin,Antidiabetic,98,76.94,STR001,0,4071.89
+2024-06-19,Insulin Glargine,Antidiabetic,74,237.25,STR012,0,6911.45
+2024-06-19,Azithromycin,Antibiotic,34,93.43,STR002,0,1713.39
+2024-06-19,Cephalexin,Antibiotic,63,238.86,STR003,0,5940.69
+2024-06-20,Aspirin,Analgesic,139,284.63,STR011,15,15108.84
+2024-06-20,Omeprazole,Antacid,19,136.8,STR008,20,1045.87
+2024-06-22,Budesonide,Respiratory,96,353.75,STR003,20,11524.53
+2024-06-22,Cephalexin,Antibiotic,66,29.3,STR019,5,768.3
+2024-06-26,Metformin,Antidiabetic,93,432.05,STR020,5,17587.01
+2024-06-27,Paracetamol,Analgesic,83,246.86,STR020,0,6582.63
+2024-06-28,Montelukast,Respiratory,157,459.43,STR014,10,32426.91
+2024-06-28,Omega-3,Supplement,116,312.37,STR010,0,19693.46
+2024-06-29,Salbutamol,Respiratory,91,339.55,STR018,10,11595.77
+2024-07-01,Multivitamin,Supplement,140,23.2,STR014,15,1075.36
+2024-07-01,Ibuprofen,Analgesic,27,144.65,STR006,0,1505.36
+2024-07-02,Montelukast,Respiratory,175,154.9,STR011,0,11122.7
+2024-07-03,Glipizide,Antidiabetic,95,338.05,STR015,10,12273.25
+2024-07-03,Doxycycline,Antibiotic,28,385.63,STR003,15,5048.8
+2024-07-04,Fluoxetine,Antidepressant,33,365.29,STR017,5,4003.03
+2024-07-04,Simvastatin,Cholesterol,43,247.37,STR018,0,5785.1
+2024-07-04,Omega-3,Supplement,161,37.41,STR001,5,1948.38
+2024-07-04,Losartan,Antihypertensive,140,264.02,STR007,10,14482.91
+2024-07-05,Pantoprazole,Antacid,110,449.42,STR019,20,19434.4
+2024-07-05,Ranitidine,Antacid,179,139.45,STR018,0,10366.45
+2024-07-06,Amoxicillin,Antibiotic,58,326.82,STR012,0,7084.26
+2024-07-06,Albendazole,Antiparasitic,157,31.12,STR010,15,1825.19
+2024-07-07,Pantoprazole,Antacid,29,332.22,STR006,0,5399.68
+2024-07-07,Salbutamol,Respiratory,194,371.17,STR013,0,32386.01
+2024-07-08,Montelukast,Respiratory,86,5.72,STR001,20,135.89
+2024-07-08,Aspirin,Analgesic,116,55.73,STR012,5,2317.02
+2024-07-08,Aspirin,Analgesic,96,312.23,STR016,25,7431.26
+2024-07-09,Amoxicillin,Antibiotic,9,420.34,STR017,0,1197.12
+2024-07-12,Cetirizine,Antihistamine,77,340.26,STR005,15,6965.67
+2024-07-14,Pantoprazole,Antacid,180,80.8,STR016,0,7412.57
+2024-07-14,Fexofenadine,Antihistamine,162,112.58,STR018,5,7151.33
+2024-07-14,Ranitidine,Antacid,161,280.99,STR020,5,25155.73
+2024-07-16,Vitamin C,Supplement,171,413.67,STR018,5,26604.58
+2024-07-17,Salbutamol,Respiratory,180,229.6,STR012,10,19511.82
+2024-07-17,Aspirin,Analgesic,23,160.69,STR015,15,1775.64
+2024-07-17,Fexofenadine,Antihistamine,106,383.27,STR012,20,11445.45
+2024-07-18,Atorvastatin,Cholesterol,49,461.32,STR013,0,7703.49
+2024-07-18,Insulin Glargine,Antidiabetic,23,37.55,STR020,20,207.36
+2024-07-18,Albendazole,Antiparasitic,197,483.3,STR006,20,34210.2
+2024-07-18,Pantoprazole,Antacid,139,238.69,STR018,0,16265.62
+2024-07-20,Paracetamol,Analgesic,175,442.97,STR004,10,25773.64
+2024-07-20,Lisinopril,Antihypertensive,106,429.2,STR003,25,11647.01
+2024-07-21,Lisinopril,Antihypertensive,57,8.56,STR019,0,259.24
+2024-07-21,Insulin Glargine,Antidiabetic,108,334.14,STR007,20,11455.63
+2024-07-21,Omega-3,Supplement,170,144.35,STR009,5,13316.7
+2024-07-23,Amoxicillin,Antibiotic,144,283.03,STR019,0,19430.88
+2024-07-23,Budesonide,Respiratory,196,142.89,STR004,5,9520.56
+2024-07-23,Iron Folic Acid,Supplement,25,233.71,STR008,0,3292.76
+2024-07-23,Fluoxetine,Antidepressant,84,429.03,STR018,25,8780.37
+2024-07-25,Cephalexin,Antibiotic,3,323.48,STR002,0,435.08
+2024-07-25,Montelukast,Respiratory,188,100.52,STR015,20,7446.47
+2024-07-25,Escitalopram,Antidepressant,197,321.12,STR004,15,21382.37
+2024-07-26,Omeprazole,Antacid,134,88.94,STR019,20,5235.79
+2024-07-26,Iron Folic Acid,Supplement,65,494.31,STR016,15,10043.26
+2024-07-27,Iron Folic Acid,Supplement,89,14.82,STR009,0,652.46
+2024-07-28,Fexofenadine,Antihistamine,57,325.59,STR020,25,4554.06
+2024-07-28,Cephalexin,Antibiotic,173,323.14,STR020,0,23328.5
+2024-07-28,Sertraline,Antidepressant,131,393.23,STR008,10,18179.36
+2024-07-29,Metronidazole,Antiparasitic,102,53.99,STR002,0,3205.0
+2024-07-30,Metformin,Antidiabetic,138,440.67,STR010,20,25334.91
+2024-07-31,Aspirin,Analgesic,21,27.5,STR001,10,210.32
+2024-07-31,Glipizide,Antidiabetic,141,451.93,STR002,5,25920.89
+2024-07-31,Amlodipine,Antihypertensive,140,94.06,STR019,0,4136.18
+2024-07-31,Loratadine,Antihistamine,63,234.64,STR020,25,3333.38
+2024-07-31,Atorvastatin,Cholesterol,49,419.16,STR019,25,6737.19
+2024-07-31,Pantoprazole,Antacid,162,239.21,STR002,0,16591.37
+2024-08-01,Cephalexin,Antibiotic,161,161.49,STR011,25,11300.48
+2024-08-01,Rosuvastatin,Cholesterol,18,280.88,STR011,0,2754.22
+2024-08-03,Rosuvastatin,Cholesterol,41,131.28,STR012,0,1785.47
+2024-08-05,Cetirizine,Antihistamine,32,237.01,STR015,10,2662.64
+2024-08-05,Escitalopram,Antidepressant,140,343.06,STR012,25,11298.59
+2024-08-05,Amoxicillin,Antibiotic,35,60.0,STR009,25,728.32
+2024-08-06,Omeprazole,Antacid,153,24.67,STR019,0,1790.0
+2024-08-08,Amlodipine,Antihypertensive,155,240.44,STR011,0,11653.14
+2024-08-08,Escitalopram,Antidepressant,164,19.99,STR020,10,1202.13
+2024-08-08,Pantoprazole,Antacid,5,448.77,STR015,0,906.83
+2024-08-09,Iron Folic Acid,Supplement,19,393.1,STR012,15,2808.49
+2024-08-09,Atorvastatin,Cholesterol,80,455.32,STR014,15,14404.94
+2024-08-10,Omega-3,Supplement,102,410.1,STR013,0,21453.21
+2024-08-10,Vitamin D3,Supplement,24,390.87,STR005,0,3592.23
+2024-08-11,Ranitidine,Antacid,47,492.28,STR016,10,10008.5
+2024-08-11,Cephalexin,Antibiotic,34,309.07,STR012,25,3499.99
+2024-08-11,Paracetamol,Analgesic,182,470.26,STR017,25,29306.69
+2024-08-12,Sertraline,Antidepressant,2,471.66,STR016,10,317.49
+2024-08-12,Sertraline,Antidepressant,184,103.17,STR013,5,10269.16
+2024-08-12,Ciprofloxacin,Antibiotic,172,209.72,STR004,15,15192.79
+2024-08-13,Insulin Glargine,Antidiabetic,135,400.64,STR002,25,12903.81
+2024-08-14,Ranitidine,Antacid,97,228.74,STR014,0,10631.16
+2024-08-14,Insulin Glargine,Antidiabetic,125,395.21,STR019,0,28959.86
+2024-08-15,Budesonide,Respiratory,24,385.41,STR002,15,3848.07
+2024-08-16,Omega-3,Supplement,192,160.23,STR002,0,13066.98
+2024-08-18,Vitamin C,Supplement,40,188.84,STR020,0,3968.54
+2024-08-20,Metronidazole,Antiparasitic,81,467.68,STR017,5,14362.16
+2024-08-20,Loratadine,Antihistamine,153,239.92,STR001,5,13376.34
+2024-08-20,Vitamin C,Supplement,135,316.37,STR006,20,18986.02
+2024-08-20,Ibuprofen,Analgesic,119,387.06,STR015,20,20064.4
+2024-08-21,Metformin,Antidiabetic,28,86.37,STR005,25,917.39
+2024-08-22,Iron Folic Acid,Supplement,98,497.34,STR011,10,20348.51
+2024-08-22,Aspirin,Analgesic,92,464.38,STR003,0,21918.97
+2024-08-23,Omeprazole,Antacid,13,336.57,STR008,5,1698.47
+2024-08-24,Iron Folic Acid,Supplement,123,108.4,STR007,15,5769.1
+2024-08-25,Montelukast,Respiratory,162,216.94,STR020,0,12811.68
+2024-08-25,Vitamin C,Supplement,105,223.73,STR015,0,12370.38
+2024-08-26,Ranitidine,Antacid,195,403.88,STR001,20,31371.89
+2024-08-26,Fluoxetine,Antidepressant,21,200.9,STR017,10,1428.66
+2024-08-26,Simvastatin,Cholesterol,79,368.33,STR013,10,14712.45
+2024-08-28,Simvastatin,Cholesterol,143,250.33,STR014,15,9661.5
+2024-08-29,Ranitidine,Antacid,63,416.21,STR011,0,13538.59
+2024-08-29,Fexofenadine,Antihistamine,152,18.96,STR012,15,773.43
+2024-08-30,Omeprazole,Antacid,100,36.18,STR016,10,1465.6
+2024-08-30,Simvastatin,Cholesterol,17,64.77,STR011,0,410.41
+2024-08-31,Azithromycin,Antibiotic,4,493.51,STR017,15,940.32
+2024-08-31,Ciprofloxacin,Antibiotic,120,445.15,STR011,0,23708.33
+2024-09-01,Metronidazole,Antiparasitic,24,114.93,STR017,10,903.85
+2024-09-02,Diazepam,Sedative,187,394.28,STR012,20,24663.53
+2024-09-02,Ranitidine,Antacid,3,260.73,STR018,5,426.76
+2024-09-02,Ciprofloxacin,Antibiotic,115,266.45,STR017,15,15017.03
+2024-09-05,Multivitamin,Supplement,179,119.68,STR017,0,8521.8
+2024-09-06,Doxycycline,Antibiotic,200,470.93,STR010,0,32553.73
+2024-09-06,Fluoxetine,Antidepressant,175,74.27,STR011,0,5242.83
+2024-09-06,Aspirin,Analgesic,129,377.43,STR018,0,22169.21
+2024-09-09,Loratadine,Antihistamine,23,29.27,STR011,20,162.58
+2024-09-11,Losartan,Antihypertensive,53,345.31,STR011,10,7385.35
+2024-09-11,Diazepam,Sedative,180,61.63,STR004,5,4963.52
+2024-09-11,Insulin Glargine,Antidiabetic,14,322.38,STR009,15,1663.57
+2024-09-11,Vitamin C,Supplement,48,426.8,STR012,25,7034.71
+2024-09-11,Insulin Glargine,Antidiabetic,169,383.11,STR013,0,21443.71
+2024-09-13,Glipizide,Antidiabetic,80,58.51,STR006,0,1504.1
+2024-09-14,Loratadine,Antihistamine,109,448.26,STR009,15,19199.94
+2024-09-15,Amlodipine,Antihypertensive,134,486.69,STR009,15,21562.1
+2024-09-17,Cetirizine,Antihistamine,60,269.34,STR015,10,4513.42
+2024-09-17,Fluoxetine,Antidepressant,30,177.22,STR019,25,1653.96
+2024-09-17,Amlodipine,Antihypertensive,31,465.46,STR007,20,6179.45
+2024-09-18,Vitamin C,Supplement,181,73.35,STR002,5,5445.26
+2024-09-18,Cephalexin,Antibiotic,156,285.69,STR009,5,17828.71
+2024-09-18,Amoxicillin,Antibiotic,147,366.22,STR004,0,24489.3
+2024-09-19,Aspirin,Analgesic,166,340.35,STR019,20,14009.57
+2024-09-20,Doxycycline,Antibiotic,199,166.56,STR013,10,10886.35
+2024-09-20,Vitamin C,Supplement,111,471.51,STR001,0,21866.9
+2024-09-21,Montelukast,Respiratory,147,211.2,STR008,0,13752.15
+2024-09-22,Escitalopram,Antidepressant,41,407.67,STR008,15,7715.27
+2024-09-23,Loratadine,Antihistamine,87,256.12,STR019,25,6473.8
+2024-09-23,Pantoprazole,Antacid,101,95.76,STR012,15,2987.23
+2024-09-24,Clonazepam,Sedative,23,221.17,STR012,0,2680.83
+2024-09-24,Insulin Glargine,Antidiabetic,97,81.36,STR020,0,2766.88
+2024-09-25,Loratadine,Antihistamine,144,107.39,STR017,25,3652.17
+2024-09-25,Zinc Sulphate,Supplement,144,412.73,STR016,0,33614.39
+2024-09-25,Aspirin,Analgesic,180,326.15,STR008,0,32190.53
+2024-09-26,Zinc Sulphate,Supplement,91,137.33,STR009,20,5761.57
+2024-09-27,Amoxicillin,Antibiotic,190,54.12,STR020,5,4028.06
+2024-09-27,Pantoprazole,Antacid,161,53.1,STR005,0,4337.13
+2024-09-29,Clonazepam,Sedative,29,419.16,STR003,25,3837.95
+2024-09-29,Atorvastatin,Cholesterol,97,293.59,STR001,0,14904.45
+2024-09-30,Cephalexin,Antibiotic,33,487.67,STR004,20,6283.27
+2024-10-01,Rosuvastatin,Cholesterol,12,208.38,STR015,5,734.33
+2024-10-02,Albendazole,Antiparasitic,109,61.81,STR007,5,2596.71
+2024-10-02,Loratadine,Antihistamine,110,329.47,STR008,0,21733.21
+2024-10-03,Vitamin D3,Supplement,10,310.64,STR018,5,1211.87
+2024-10-03,Clonazepam,Sedative,32,465.07,STR001,0,6959.15
+2024-10-03,Losartan,Antihypertensive,14,100.89,STR009,0,557.11
+2024-10-05,Vitamin D3,Supplement,194,284.05,STR015,25,16352.34
+2024-10-07,Zinc Sulphate,Supplement,185,161.28,STR018,25,11412.35
+2024-10-09,Vitamin D3,Supplement,47,442.41,STR016,5,7653.02
+2024-10-09,Alprazolam,Sedative,36,22.67,STR007,0,313.45
+2024-10-09,Cephalexin,Antibiotic,200,83.09,STR013,25,7176.27
+2024-10-10,Ibuprofen,Analgesic,192,267.59,STR003,20,19484.33
+2024-10-10,Budesonide,Respiratory,140,370.53,STR019,5,18093.63
+2024-10-10,Lisinopril,Antihypertensive,81,209.15,STR008,15,6408.69
+2024-10-11,Albendazole,Antiparasitic,159,40.25,STR019,5,2735.02
+2024-10-12,Iron Folic Acid,Supplement,33,314.39,STR009,0,4660.68
+2024-10-13,Paracetamol,Analgesic,38,238.48,STR003,20,4158.17
+2024-10-14,Fluoxetine,Antidepressant,132,401.54,STR012,0,16651.68
+2024-10-14,Ranitidine,Antacid,200,98.03,STR005,0,10676.96
+2024-10-14,Losartan,Antihypertensive,164,104.59,STR001,10,8084.22
+2024-10-15,Budesonide,Respiratory,173,120.74,STR004,0,8650.48
+2024-10-15,Cetirizine,Antihistamine,122,422.67,STR003,10,16917.86
+2024-10-16,Glipizide,Antidiabetic,190,141.14,STR001,5,14219.01
+2024-10-16,Fluoxetine,Antidepressant,132,167.32,STR014,20,7053.87
+2024-10-16,Omega-3,Supplement,89,243.42,STR010,5,7380.15
+2024-10-16,Amoxicillin,Antibiotic,143,373.02,STR012,20,15080.47
+2024-10-17,Iron Folic Acid,Supplement,176,165.52,STR008,0,15477.16
+2024-10-17,Pantoprazole,Antacid,160,29.05,STR018,0,1865.75
+2024-10-17,Salbutamol,Respiratory,162,308.09,STR014,20,13788.49
+2024-10-18,Omega-3,Supplement,127,445.18,STR017,0,19487.59
+2024-10-20,Metformin,Antidiabetic,184,133.2,STR015,0,14169.13
+2024-10-22,Ciprofloxacin,Antibiotic,151,133.12,STR019,0,11929.21
+2024-10-22,Atorvastatin,Cholesterol,28,67.28,STR018,5,903.73
+2024-10-23,Escitalopram,Antidepressant,98,227.03,STR012,20,8673.64
+2024-10-23,Multivitamin,Supplement,42,96.08,STR005,10,1967.37
+2024-10-23,Alprazolam,Sedative,185,252.83,STR003,0,17136.92
+2024-10-23,Insulin Glargine,Antidiabetic,40,315.46,STR016,15,4947.3
+2024-10-24,Salbutamol,Respiratory,85,51.78,STR003,20,1812.48
+2024-10-24,Amlodipine,Antihypertensive,92,431.76,STR010,0,13515.8
+2024-10-24,Lisinopril,Antihypertensive,69,327.54,STR007,0,7697.9
+2024-10-24,Ciprofloxacin,Antibiotic,137,427.4,STR012,15,28661.12
+2024-10-25,Iron Folic Acid,Supplement,144,356.12,STR003,5,27207.51
+2024-10-27,Salbutamol,Respiratory,36,23.96,STR005,25,253.06
+2024-10-27,Azithromycin,Antibiotic,179,221.56,STR010,5,21951.26
+2024-10-29,Alprazolam,Sedative,47,498.49,STR009,20,7676.56
+2024-10-29,Amlodipine,Antihypertensive,132,45.76,STR011,0,3320.86
+2024-10-31,Zinc Sulphate,Supplement,171,409.47,STR001,10,20195.4
+2024-10-31,Ibuprofen,Analgesic,177,62.32,STR002,25,4020.04
+2024-10-31,Azithromycin,Antibiotic,65,191.28,STR017,5,5257.18
+2024-11-01,Atorvastatin,Cholesterol,121,391.86,STR003,10,21269.85
+2024-11-01,Metformin,Antidiabetic,158,207.02,STR016,10,17374.01
+2024-11-01,Salbutamol,Respiratory,196,411.69,STR009,25,27944.46
+2024-11-01,Vitamin D3,Supplement,156,239.16,STR019,0,19302.75
+2024-11-03,Doxycycline,Antibiotic,86,45.34,STR005,0,1267.16
+2024-11-03,Cetirizine,Antihistamine,7,146.97,STR020,0,578.13
+2024-11-04,Ranitidine,Antacid,47,140.27,STR001,10,1919.69
+2024-11-04,Simvastatin,Cholesterol,4,355.41,STR004,0,783.11
+2024-11-04,Rosuvastatin,Cholesterol,154,224.29,STR018,15,9666.77
+2024-11-05,Zinc Sulphate,Supplement,118,323.45,STR010,0,22203.8
+2024-11-05,Loratadine,Antihistamine,133,305.43,STR007,5,14496.62
+2024-11-05,Omega-3,Supplement,49,264.41,STR013,25,3598.03
+2024-11-05,Loratadine,Antihistamine,148,380.45,STR001,5,26945.47
+2024-11-07,Ibuprofen,Analgesic,41,269.07,STR016,0,4147.69
+2024-11-08,Budesonide,Respiratory,130,325.53,STR003,0,14605.41
+2024-11-08,Metformin,Antidiabetic,70,313.28,STR017,0,10402.36
+2024-11-09,Ibuprofen,Analgesic,165,217.16,STR003,25,14659.02
+2024-11-09,Vitamin C,Supplement,97,160.31,STR017,0,7185.7
+2024-11-12,Diazepam,Sedative,74,302.2,STR002,15,10814.24
+2024-11-12,Zinc Sulphate,Supplement,114,231.71,STR018,0,8730.55
+2024-11-13,Cephalexin,Antibiotic,169,246.49,STR016,0,18343.0
+2024-11-14,Escitalopram,Antidepressant,74,439.35,STR018,20,9298.63
+2024-11-15,Montelukast,Respiratory,102,431.57,STR003,0,20651.35
+2024-11-15,Amoxicillin,Antibiotic,106,73.06,STR001,5,4264.27
+2024-11-16,Salbutamol,Respiratory,134,345.68,STR017,0,21777.67
+2024-11-17,Salbutamol,Respiratory,3,136.28,STR015,5,152.27
+2024-11-18,Sertraline,Antidepressant,82,349.67,STR017,20,12736.17
+2024-11-18,Montelukast,Respiratory,77,423.48,STR017,0,16690.87
+2024-11-19,Ranitidine,Antacid,11,382.74,STR019,0,1931.82
+2024-11-20,Doxycycline,Antibiotic,11,437.44,STR020,5,1639.27
+2024-11-20,Loratadine,Antihistamine,152,46.95,STR020,0,3611.33
+2024-11-20,Glipizide,Antidiabetic,2,322.5,STR018,0,240.72
+2024-11-21,Fluoxetine,Antidepressant,94,49.7,STR018,20,2226.86
+2024-11-21,Glipizide,Antidiabetic,190,256.87,STR008,0,16710.61
+2024-11-22,Losartan,Antihypertensive,122,397.9,STR017,0,19531.34
+2024-11-24,Fexofenadine,Antihistamine,200,59.52,STR008,5,6452.58
+2024-11-25,Alprazolam,Sedative,157,192.98,STR006,15,10728.58
+2024-11-26,Doxycycline,Antibiotic,148,290.07,STR007,0,13144.76
+2024-11-27,Albendazole,Antiparasitic,22,387.22,STR013,10,2764.58
+2024-11-28,Omeprazole,Antacid,147,474.36,STR002,0,37847.48
+2024-11-28,Sertraline,Antidepressant,77,209.49,STR017,0,9013.7
+2024-11-29,Fexofenadine,Antihistamine,182,37.14,STR012,10,2023.39
+2024-11-29,Paracetamol,Analgesic,34,325.45,STR016,0,5896.36
+2024-11-29,Fexofenadine,Antihistamine,30,196.01,STR013,10,3136.14
+2024-11-30,Omega-3,Supplement,168,430.84,STR005,0,39553.24
+2024-11-30,Amlodipine,Antihypertensive,189,103.83,STR016,5,6304.53
+2024-12-01,Insulin Glargine,Antidiabetic,125,60.9,STR016,20,2848.86
+2024-12-01,Metronidazole,Antiparasitic,36,164.19,STR018,5,2081.77
+2024-12-02,Clonazepam,Sedative,162,95.23,STR016,0,8964.32
+2024-12-02,Metformin,Antidiabetic,35,153.74,STR008,25,1484.28
+2024-12-02,Doxycycline,Antibiotic,84,249.68,STR013,0,12014.24
+2024-12-03,Budesonide,Respiratory,166,182.54,STR018,20,12538.47
+2024-12-03,Multivitamin,Supplement,177,63.12,STR010,10,4924.31
+2024-12-03,Loratadine,Antihistamine,23,144.35,STR020,25,1209.1
+2024-12-04,Insulin Glargine,Antidiabetic,126,182.83,STR011,5,12048.32
+2024-12-06,Doxycycline,Antibiotic,110,306.38,STR010,15,14956.41
+2024-12-07,Amlodipine,Antihypertensive,103,497.6,STR010,15,20413.19
+2024-12-10,Fluoxetine,Antidepressant,85,426.91,STR003,20,9108.36
+2024-12-11,Loratadine,Antihistamine,12,165.57,STR001,0,1017.24
+2024-12-11,Fexofenadine,Antihistamine,195,179.36,STR004,25,11152.49
+2024-12-11,Glipizide,Antidiabetic,116,238.24,STR010,15,12621.36
+2024-12-12,Ranitidine,Antacid,135,209.81,STR011,5,10527.84
+2024-12-13,Doxycycline,Antibiotic,102,457.99,STR007,15,14586.47
+2024-12-13,Salbutamol,Respiratory,109,348.55,STR004,25,16490.92
+2024-12-13,Amoxicillin,Antibiotic,27,210.93,STR006,25,1534.78
+2024-12-13,Omega-3,Supplement,101,209.71,STR005,25,9412.6
+2024-12-13,Doxycycline,Antibiotic,160,94.0,STR014,20,5226.52
+2024-12-13,Simvastatin,Cholesterol,76,236.14,STR009,0,7328.79
+2024-12-14,Iron Folic Acid,Supplement,40,99.0,STR016,5,1163.91
+2024-12-14,Alprazolam,Sedative,18,153.63,STR011,0,1640.47
+2024-12-15,Diazepam,Sedative,28,459.43,STR006,0,6788.47
+2024-12-15,Omega-3,Supplement,152,300.8,STR006,20,16202.35
+2024-12-20,Diazepam,Sedative,43,397.27,STR004,20,6130.5
+2024-12-21,Cetirizine,Antihistamine,147,137.33,STR010,0,11291.35
+2024-12-22,Azithromycin,Antibiotic,170,117.81,STR002,10,5487.39
+2024-12-22,Losartan,Antihypertensive,82,242.5,STR016,10,9192.77
+2024-12-23,Sertraline,Antidepressant,68,76.85,STR016,20,2493.51
+2024-12-25,Alprazolam,Sedative,135,263.76,STR015,0,17477.3
+2024-12-25,Atorvastatin,Cholesterol,15,283.38,STR015,20,1471.81
+2024-12-26,Amoxicillin,Antibiotic,69,266.87,STR020,0,6438.71
+2024-12-27,Lisinopril,Antihypertensive,133,447.99,STR012,0,31270.08
+2024-12-27,Multivitamin,Supplement,35,391.36,STR013,0,7504.62
+2024-12-28,Ranitidine,Antacid,166,200.75,STR020,25,9140.27
+2024-12-29,Fexofenadine,Antihistamine,195,422.56,STR008,20,29872.17
+2024-12-29,Rosuvastatin,Cholesterol,24,61.51,STR004,25,453.7
+2024-12-29,Sertraline,Antidepressant,98,220.42,STR013,5,8234.17
+2024-12-30,Ibuprofen,Analgesic,64,461.52,STR002,10,13289.89
+2024-12-31,Azithromycin,Antibiotic,69,81.34,STR003,0,2122.09
+2024-12-31,Montelukast,Respiratory,140,391.81,STR016,15,15209.06
