@@ -1,53 +1,69 @@
-#PharmaIQ-sales-demand-prediction
-Pharmacy sales analysis and demand prediction using Python, Pandas, and Machine Learning
+# PharmaIQ: Sales Demand Prediction
 
-#Overview
-PharmaIQ is a simple data science and machine learning project that analyzes pharmacy sales data and predicts future demand for medicines. The goal is to help identify sales trends and support better business decisions.
+Pharmacy sales analysis and demand prediction using Python, Pandas, and Machine Learning.
 
-#Features
-1.Data cleaning and preprocessing using Python
-2.Analysis of top-selling and low-performing medicines
-3.Revenue calculation and business insights
-4.Visualization of sales trends using charts
-5.Machine learning model to predict medicine demand
+---
 
-#Technologies Used
-1.Python
-2.Pandas
-3.Matplotlib
-4.Scikit-learn
+## Overview
+PharmaIQ is a data science project that analyzes pharmacy sales data and predicts future demand for medicines. It helps identify sales trends and supports data-driven decision-making.
 
-#Dataset
-The dataset contains pharmacy sales records with the following columns:
-1.Date
-2.Medicine Name
-3.Category
-4.Quantity Sold
-5.Price
-6.Store ID
-7.Discount
-8.Profit
+---
 
-#Project Workflow
-1. Data Loading and Cleaning
-2. Feature Engineering (Month, Day, Time Index, Previous Sales)
-3. Exploratory Data Analysis
-4. Data Visualization
-5. Model Training using Random Forest
-6. Prediction and Evaluation
-  
-# Machine Learning
-A Random Forest Regressor model is used to predict the quantity of medicines sold based on:
-1.Price
-2.Category
-3.Discount
-4.Time-based features
-5.Previous sales
+## Features
+- Data cleaning and preprocessing using Python  
+- Identification of top-selling and low-performing medicines  
+- Revenue calculation and business insights  
+- Visualization of sales trends using charts  
+- Machine learning model for demand prediction  
 
-# Evaluation
-1.Model performance is evaluated using Mean Absolute Error (MAE)
-2.The model shows moderate accuracy due to limited feature relationships in the dataset
+---
 
+## Technologies Used
+- Python  
+- Pandas  
+- Matplotlib  
+- Scikit-learn  
 
-#Conclusion
-This project demonstrates the end-to-end workflow of a basic machine learning project, including data analysis, visualization, and prediction. It is designed as a beginner-friendly project for learning and showcasing skills.
+---
+
+## Dataset
+The dataset includes pharmacy sales records with the following attributes:
+- Date  
+- Medicine Name  
+- Category  
+- Quantity Sold  
+- Price  
+- Store ID  
+- Discount  
+- Profit  
+
+---
+
+## Project Workflow
+1. Data loading and cleaning  
+2. Feature engineering (Month, Day, Time Index, Previous Sales)  
+3. Exploratory data analysis  
+4. Data visualization  
+5. Model training using Random Forest  
+6. Prediction and evaluation  
+
+---
+
+## Machine Learning
+A Random Forest Regressor is used to predict medicine demand based on:
+- Price  
+- Category  
+- Discount  
+- Time-based features  
+- Previous sales  
+
+---
+
+## Evaluation
+- Model performance is evaluated using Mean Absolute Error (MAE)  
+- The model shows moderate accuracy due to limited feature relationships  
+
+---
+
+## Conclusion
+This project demonstrates an end-to-end machine learning workflow, including data analysis, visualization, and prediction. It is designed as a beginner-friendly project to showcase practical ML skills.
